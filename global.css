@@ -58,7 +58,7 @@
 }
 
 .franchise{
-    border: 1px solid white;
+    /* border: 1px solid white; */
     padding: 12px 15px;
     border-radius: 35px;
     cursor: pointer;
@@ -69,7 +69,7 @@
 }
 
 .order{
-    /* border: 1px solid white; */
+    border: 1px solid white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -209,7 +209,7 @@
     color: white;
     flex-wrap: wrap;
     width: 25%;
-    border: 1px solid white;
+    /* border: 1px solid white; */
 }
 
 .franchise__location{
